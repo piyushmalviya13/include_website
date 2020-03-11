@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Landing />
-      <About />
+
       <FadeInDiv>
         <Box mx="auto" bgcolor="" p={10}>
           <Container maxWidth="lg">
